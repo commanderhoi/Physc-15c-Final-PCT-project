@@ -1,4 +1,6 @@
 # Physc-15c-Final-PCT-project
+#### Jacob Nie, Justin Hsu, Linda Jin
+
 Final report for group The Wednesdays's point contact transistor.
 
 ## TRANSISTORS: POINT CONTACT TRANSISTOR
