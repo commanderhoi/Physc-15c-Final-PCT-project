@@ -42,3 +42,7 @@ lar P-N-P transistor.
 
 ## TESTING THE CUT-OPEN DIODE
 
+We proved that the metal block is indeed germanium by putting an exterior contact on it. By measuring the current and forward voltage of the circuit of both an intact diode and the cut one with the same resistor, we can see they behave the same. 
+
+ Forward-biased I-V curve of intact Ge diode |  Forward-biased I-V curve of cut Ge diode
+:-------------------------:|:-------------------------:
