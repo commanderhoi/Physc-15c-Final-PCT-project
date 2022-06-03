@@ -1,6 +1,6 @@
 # Physc-15c-Final-PCT-project
 Final report for group The Wednesdays's point contact transistor.
-## FABRICATION PROCESS: THE GERMANIUM DIODE
+## THE GERMANIUM DIODE
 Early semiconductor developments used germanium
 as the commercial semiconductor material however was
 eventually replaced by silicon. However, germanium
@@ -49,5 +49,9 @@ We proved that the metal block is indeed germanium by putting an exterior contac
 ![unnamed-3](https://user-images.githubusercontent.com/102839205/171825211-e5f72332-6e4f-4b2e-baa9-658ff21afa54.png) | ![unnamed-4](https://user-images.githubusercontent.com/102839205/171825235-0e19c7b8-c42c-421e-9b5f-0da2cd054c49.png)
 ![unnamed](https://user-images.githubusercontent.com/102839205/171825358-5f8f40e6-297a-493b-a237-7816014ff110.png) | ![unnamed-2](https://user-images.githubusercontent.com/102839205/171825376-883bab70-8992-405a-8a84-90fc3ccb59a1.png)
 
-
+## Fabrication Process: Difficulties & Solutions
+Instead of only one p-n junction we need two for a p-n-p transistor. We can achieve this by etching a thin scratch on the germanium. But considering the size of the germanium and stabilizing the two pins to keep in contact with the germanium without touching each other, we need a better plan for the feasibility and the unity of the device.
+Initial Plan
+:-------------------------:
+![unnamed-5](https://user-images.githubusercontent.com/102839205/171825780-99aac7ea-5fa9-487b-89d4-c6cb43a2969f.png)|
 
