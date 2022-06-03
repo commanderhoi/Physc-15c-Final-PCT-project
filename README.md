@@ -1,5 +1,10 @@
 # Physc-15c-Final-PCT-project
 Final report for group The Wednesdays's point contact transistor.
+
+## TRANSISTORS: POINT CONTACT TRANSISTOR
+
+[jacob]
+
 ## THE GERMANIUM DIODE
 Early semiconductor developments used germanium
 as the commercial semiconductor material however was
@@ -54,4 +59,14 @@ Instead of only one p-n junction we need two for a p-n-p transistor. We can achi
 Initial Plan
 :-------------------------:
 ![unnamed-5](https://user-images.githubusercontent.com/102839205/171825780-99aac7ea-5fa9-487b-89d4-c6cb43a2969f.png)|
+
+
+Hence, another essential issue is to establish the micropositioning on x-y-z axes. We solved the problem of micromanaging the two pins as a whole entity by hot gluing them together. The conductor has insulating coating, so we kept the parts inside the **hot-glued tube** insulated and sanded the two ends of the wires to conduct current across. Another challenge arise when the two contact points are too close to each other, they may not be detached. So we cut the excess sanded part to make sure only the cross section contacts with the germanium is conductive. The resistance between two ends on the other side of the hot-glued tube was measured to be zero, so disconnected between two terminals.
+
+<img width="792" alt="截屏2022-06-03 上午2 17 47" src="https://user-images.githubusercontent.com/102839205/171826358-ecf2f6ee-8563-4b9d-80f6-6b8096fc0545.png">
+
+Two hot-glued terminals in contact with the germanium, stabilized together by a tape.
+:-------------------------:
+![T20220525_001_0001](https://user-images.githubusercontent.com/102839205/171826908-b02a3f55-5dc7-4c07-9158-ca8dfee5aa57.jpg)|
+
 
