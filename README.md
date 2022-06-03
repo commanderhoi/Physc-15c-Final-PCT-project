@@ -46,3 +46,9 @@ We proved that the metal block is indeed germanium by putting an exterior contac
 
  Forward-biased I-V curve of intact Ge diode |  Forward-biased I-V curve of cut Ge diode
 :-------------------------:|:-------------------------:
+![unnamed-3](https://user-images.githubusercontent.com/102839205/171825211-e5f72332-6e4f-4b2e-baa9-658ff21afa54.png) | ![unnamed-4](https://user-images.githubusercontent.com/102839205/171825235-0e19c7b8-c42c-421e-9b5f-0da2cd054c49.png)
+:-------------------------:|:-------------------------:
+![unnamed](https://user-images.githubusercontent.com/102839205/171825358-5f8f40e6-297a-493b-a237-7816014ff110.png) | ![unnamed-2](https://user-images.githubusercontent.com/102839205/171825376-883bab70-8992-405a-8a84-90fc3ccb59a1.png)
+
+
+
