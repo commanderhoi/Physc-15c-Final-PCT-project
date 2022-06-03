@@ -69,4 +69,11 @@ Two hot-glued terminals in contact with the germanium, stabilized together by a 
 :-------------------------:
 ![T20220525_001_0001](https://user-images.githubusercontent.com/102839205/171826908-b02a3f55-5dc7-4c07-9158-ca8dfee5aa57.jpg)|
 
+Another detail is that the conductor is very thin so even easier to break after being sanded. The hot glue protects the wires. The wires were soldered to jumper wires for taking measurements through LabJack, and heat shrink tube was also used to protect the fragile device,
+<img width="792" alt="截屏2022-06-03 上午2 26 10" src="https://user-images.githubusercontent.com/102839205/171827860-8b9caa78-21c2-4945-85bd-6afd4b5e1396.png">
 
+## PERFORMANC
+[justin]
+
+## FUTURE IMPROVEMENTS
+[justin]
