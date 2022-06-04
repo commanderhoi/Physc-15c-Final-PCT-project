@@ -78,4 +78,4 @@ Another detail is that the conductor is very thin so even easier to break after 
 The device managed to show that we had contact between the collector, the doped germanium, and the emitter. We saw a pretty clear saturation region between Ve and Vc. 
 
 ## FUTURE IMPROVEMENTS
-Ideally, we'd want to test our device for amplification. It would also be advisable to use a bigger diode to establish better contact. 
+Ideally, we'd want to test our device for amplification. It would also be advisable to use a bigger diode to establish better contact. For further study, it would be ideal to be useful to better understand the inner workings of the point contact transistor, rather than the modern chemical ones we use today. 
